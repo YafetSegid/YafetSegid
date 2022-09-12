@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yafet Segid
+- 👋 Hi, I’m Yafet 
 - 👀 I’m interested in React
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me yafetsegid@gmail.com
